@@ -13,7 +13,9 @@ We are passionate about educating blockchain developers for FREE or as cheaply a
 We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 To make this possible we need your help. Those that participate in our slack channel are bound to the same terms as our platform:
+
 Talent looking for work: https://workonblockchain.com/pages/candidate-terms
+
 Hiring companies: https://workonblockchain.com/pages/company-terms
 
 ## Please
